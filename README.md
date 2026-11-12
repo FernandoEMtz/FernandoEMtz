@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hello there I'm Fernando E. Martínez 
+## Physcis graduate | Software developer | Scientific Computing
 
-<!--
-**FernandoEMtz/FernandoEMtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me | Sobre mí
+I'm a Physics graduate (thesis stage) from the Universidad Autónoma del Estado de México (UAEMex), interested in software development and computational science.
+My work focuses on designing modular software, numerical simulations, parallel programming, and performance optimization.
 
-Here are some ideas to get you started:
+Currently developing my skills in software engineering, algorithms, and computational methods.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+Soy egresado de la Licenciatura en Física, estoy interesado en el desarrollo de software y la computación científica.
+Me enfoco en el diseño de software modular, simulaciones numéricas, programación paralela y optimización de rendimiento.
+
+Actualmente estoy fortaleciendo mis conocimientos en ingeniería de software, algoritmos y métodos computacionales.
+
+## Technologies
+Languages
+- C (Primary)
+- Python
+- Julia
+- Fortran 90/95
+- R (Basic)
+
+Tools & technologies
+- CLion & PyCharm
+- OpenMP
+- CMake
+- Linux
+- NumPy, pandas, Matplotlib
+
+## Contact me
+LinkedIn: https://www.linkedin.com/in/fernando-e-mtz/
